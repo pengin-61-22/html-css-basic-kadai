@@ -20,6 +20,6 @@ h1 {
   text-shadow: 10px 0px 0px #f5f5dc;
   border-bottom: solid 3px rgb(115, 115, 114);
 }
-#basic p {
+#basic > p {
   font-weight: bold;
 }
