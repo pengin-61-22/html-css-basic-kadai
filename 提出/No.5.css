@@ -1,0 +1,21 @@
+.test1::before {
+  content: "★";
+  color: rgb(172, 212, 248);
+}
+.test1::after {
+  content: "★";
+  color: rgb(250, 150, 250);
+}
+.test2::first-letter {
+  font-size: 24px;
+  font-weight: bold;
+  color: rgb(153, 254, 0);
+}
+.test3::first-line {
+  font-size: 15px;
+  font-weight: bold;
+  color: palevioletred;
+}
+.parent {
+  background-color: whitesmoke;
+}
